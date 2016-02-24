@@ -2,7 +2,7 @@
 
 
 
-.
+```
 +-- application.styl
 +-- generic
 |   +-- mixins.styl
@@ -15,3 +15,5 @@
 |   +-- buttons.styl
 |   +-- colors.styl
 |   +-- forms.styl
+
+```
