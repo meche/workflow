@@ -12,9 +12,7 @@ This guide is inspired in various authors in GitHub, your finality is defined st
 2. Structure
   2.1 Application
   2.2 CSS
-    2.2.1 The atoms - Genesis - firsts elements and base
-    2.2.2 Molecules - the magic happens - little components
-    2.2.3 Organisms - first look - sections of website
-    2.2.4 Templates - Previus - the site is avaliable
-    2.2.5 Page - finality - the content is finalized
+  2.2.1 Tools
+  2.2.2 Tree
+  2.2.3 Patterns
   2.3 Javascript
