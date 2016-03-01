@@ -40,4 +40,5 @@ For prototypes, I use [InVision](http://www.invisionapp.com/), have all I need.
 Tests A/B is important for performance of e-commerce, but I don't dispense your use in websites, all the sites have a goal, and this goal must be achieved. With metrics, I can obtain the performance the website, and adjust items necessary. Two good tools are [vwo](https://vwo.com/) and [Google Analytics](http://analytics.google.com).
 
 references to UX:
-http://www.designbrief.de/
+- [DesignBrief](http://www.designbrief.de/)
+- [Simple Calculator AB](http://getdatadriven.com/ab-significance-test)
