@@ -23,7 +23,9 @@ Analysis the project and your need. List all the processes the website and your 
 
 After make lists, define with client the priorities of search and focus on content. Remember, don't have project without content.
 
-The next step, we need separate contents for importance  ranks then order heuristic, using the cards.
+The next step, we need separate contents for importance  ranks then order heuristic, using the cards. See a exemple of card:
+
+![Card Issue](images/cards-ux-heuristic.jpg)
 
 
 
