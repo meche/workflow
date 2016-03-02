@@ -9,7 +9,7 @@ This guide is inspired in various authors in GitHub, your finality is defined st
     - 1.1.1 UX
     - 1.1.2 Grid System
     - 1.1.3 About Design
-  - 1.2 Technology - Stylus, the power
+  - 1.2 Technology - The power
   - 1.3 The Styleguide - Patterns
 
 - [2. Structure](02-structure.md)

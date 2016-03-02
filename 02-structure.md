@@ -33,3 +33,5 @@ Basic structure to start projects with stylus
 |   +-- tables.styl
 |   +-- (...)
 ```
+
+### 2.2.3 Patterns

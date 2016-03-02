@@ -42,3 +42,40 @@ Tests A/B is important for performance of e-commerce, but I don't dispense your 
 references to UX:
 - [DesignBrief](http://www.designbrief.de/)
 - [Simple Calculator AB](http://getdatadriven.com/ab-significance-test)
+
+### 1.1.2 Grid System
+
+I preserve the freedom to create user interfaces, choice your layouts of 12 columns. 16 columns or 7 columns,  no matter, all the choices works.
+
+#### Jeet.gs
+
+Is a grid system mature, flexible and easy implementation, with Jeet.gs the project define the ways of design and position of columns.
+
+#### Bootstrap Grid
+
+Use with quick projects, if don't have time to create custom interface. Your implementation its easy and fast.
+
+#### Flex
+
+The "flex", the awesome resource of CSS3, is a flexible resource to create layouts. Your grid is flexible, you choice how the elements will stay. Is more near of Jeet.gs, and works together with him and Bootstrap.
+
+#### Responsive
+
+All the projects are thought to mobile first. Is important the content be created with thought in mobile first.
+
+references to Grid System:
+- [Jeetgs](http://jeet.gs)
+- [Bootstrap](http://getbootstrap.com)
+- [flex](https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex)
+
+### 1.1.3 About Design
+
+coming soon
+
+## 1.2 Technology
+
+coming soon
+
+## 1.3 The style guide
+
+coming soon
