@@ -18,4 +18,4 @@ This guide is inspired in various authors in GitHub, your finality is defined st
   - 2.2.1 Tools
   - 2.2.2 Tree
   - 2.2.3 Patterns
-  - 2.3 Javascript
+  - 2.3 HTML

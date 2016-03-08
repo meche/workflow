@@ -34,4 +34,29 @@ Basic structure to start projects with stylus
 |   +-- (...)
 ```
 
-### 2.2.3 Patterns
+### 2.2.3 Patte
+
+## 2.3 HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Title Website</title>
+    <!--Links CSS-->
+</head>
+<body>
+    <header>
+        <h1>Title Website</h1>
+    </header>
+    <main>
+        <p>the content</p>
+    </main>
+    <footer>
+        <small>copyright</small>
+    </footer>
+</body>
+
+```
+
